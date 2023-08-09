@@ -1,5 +1,19 @@
 {
+  "name": "web3js",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "collect.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
   "dependencies": {
-    "web3": "^4.0.3"
+    "web3": "^1.7.0"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
   }
 }
+

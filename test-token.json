@@ -1,0 +1,55 @@
+{
+  "name": "Waterfall Token List",
+  "timestamp": "2022-07-10T18:08:00.164591Z",
+  "keywords": [
+    "null"
+  ],
+  "logoURI": "https://evm.planq.network/images/planq-e04d1000086331abf45ccaed9064c328.svg",
+  "version": {
+    "major": 5,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 700707,
+      "name": "WPLANQ",
+      "address": "0x0f265b48Bb6c3A7F8aC66A74eC765439cAAd9209",
+      "decimals": 18,
+      "symbol": "WPLANQ",
+      "logoURI": "https://evm.planq.network/images/planq-e04d1000086331abf45ccaed9064c328.svg"
+    },
+    {
+      "chainId": 700707,
+      "name": "USDT",
+      "address": "0xd294ff6a5D1c6731125d297Efc65c1a788eFA5B1",
+      "decimals": 18,
+      "symbol": "TUSDTQ",
+      "logoURI": "https://explorer.waterfall.network/favicon-72-precomposed.png"
+    },
+    {
+      "chainId": 700707,
+      "name": "USDC",
+      "address": "0xfF1f7428F672EaA625719dd9e13763d3d18d2108",
+      "decimals": 18,
+      "symbol": "TUSDC",
+      "logoURI": "https://explorer.waterfall.network/favicon-72-precomposed.png"
+    },
+    {
+      "chainId": 700707,
+      "name": "Maker",
+      "address": "0x9Cac1CD4aAB4dF28D897E991d19bd4b4CDef2691",
+      "decimals": 18,
+      "symbol": "MKR",
+      "logoURI": "https://explorer.waterfall.network/favicon-72-precomposed.png"
+    },
+    {
+      "chainId": 700707,
+      "name": "BTC",
+      "address": "0xB93319056C6CDd37448d696cEB9b020B8519Fa08",
+      "decimals": 18,
+      "symbol": "WBTC",
+      "logoURI": "https://explorer.waterfall.network/favicon-72-precomposed.png"
+    }
+  ]
+}

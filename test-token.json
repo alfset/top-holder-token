@@ -1,55 +1,48 @@
 {
-  "name": "Waterfall Token List",
-  "timestamp": "2022-07-10T18:08:00.164591Z",
-  "keywords": [
-    "null"
-  ],
+  "name": "PLANQ",
   "logoURI": "https://evm.planq.network/images/planq-e04d1000086331abf45ccaed9064c328.svg",
-  "version": {
-    "major": 5,
-    "minor": 0,
-    "patch": 0
-  },
+  "keywords": [
+    "compound",
+    "defi"
+  ],
+  "timestamp": "2021-05-27T20:37:00.000+00:00",
   "tokens": [
     {
       "chainId": 700707,
-      "name": "WPLANQ",
-      "address": "0x0f265b48Bb6c3A7F8aC66A74eC765439cAAd9209",
-      "decimals": 18,
-      "symbol": "WPLANQ",
-      "logoURI": "https://evm.planq.network/images/planq-e04d1000086331abf45ccaed9064c328.svg"
-    },
-    {
-      "chainId": 700707,
-      "name": "USDT",
       "address": "0xd294ff6a5D1c6731125d297Efc65c1a788eFA5B1",
-      "decimals": 18,
+      "name": "USDT",
       "symbol": "TUSDTQ",
-      "logoURI": "https://explorer.waterfall.network/favicon-72-precomposed.png"
+      "decimals": 18,
+      "logoURI": "https://seeklogo.com/images/T/tether-usdt-logo-FA55C7F397-seeklogo.com.png"
     },
     {
       "chainId": 700707,
-      "name": "USDC",
       "address": "0xfF1f7428F672EaA625719dd9e13763d3d18d2108",
-      "decimals": 18,
+      "name": "PLANQ USD Coin",
       "symbol": "TUSDC",
-      "logoURI": "https://explorer.waterfall.network/favicon-72-precomposed.png"
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_usdc.svg"
     },
     {
       "chainId": 700707,
-      "name": "Maker",
       "address": "0x9Cac1CD4aAB4dF28D897E991d19bd4b4CDef2691",
-      "decimals": 18,
+      "name": "Maker Planq",
       "symbol": "MKR",
-      "logoURI": "https://explorer.waterfall.network/favicon-72-precomposed.png"
+      "decimals": 18,
+      "logoURI": "https://cryptologos.cc/logos/maker-mkr-logo.png"
     },
     {
-      "chainId": 700707,
-      "name": "BTC",
+      "chainId": 1,
       "address": "0xB93319056C6CDd37448d696cEB9b020B8519Fa08",
-      "decimals": 18,
+      "name": "Wrapped BTC",
       "symbol": "WBTC",
-      "logoURI": "https://explorer.waterfall.network/favicon-72-precomposed.png"
+      "decimals": 18,
+      "logoURI": "https://static.vecteezy.com/system/resources/previews/008/505/801/original/bitcoin-logo-color-illustration-png.png"
     }
-  ]
+  ],
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  }
 }

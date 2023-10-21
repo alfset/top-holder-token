@@ -17,6 +17,14 @@
     },
     {
       "chainId": 700707,
+      "address": "0x0f265b48Bb6c3A7F8aC66A74eC765439cAAd9209",
+      "name": "Wraped PLANQ",
+      "symbol": "WPLANQ",
+      "decimals": 18,
+      "logoURI": "https://evm.planq.network/images/planq-e04d1000086331abf45ccaed9064c328.svg"
+    },
+    {
+      "chainId": 700707,
       "address": "0xfF1f7428F672EaA625719dd9e13763d3d18d2108",
       "name": "PLANQ USD Coin",
       "symbol": "TUSDC",

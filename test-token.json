@@ -40,7 +40,7 @@
       "logoURI": "https://cryptologos.cc/logos/maker-mkr-logo.png"
     },
     {
-      "chainId": 1,
+      "chainId": 700707,
       "address": "0xB93319056C6CDd37448d696cEB9b020B8519Fa08",
       "name": "Wrapped BTC",
       "symbol": "WBTC",

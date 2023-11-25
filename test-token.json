@@ -36,7 +36,7 @@
             "name": "Delta Token",
             "symbol": "DELTA",
             "decimals": 18,
-            "logoURI": "https://github.com/alfset/top-holder-token/blob/main/src/Delta.jpg"
+            "logoURI": "https://github.com/alfset/top-holder-token/blob/main/src/Logo%20Delta%202.png"
         },
         {
             "chainId": 7070,
@@ -44,7 +44,7 @@
             "name": "Physica Token",
             "symbol": "PHYSICA",
             "decimals": 18,
-            "logoURI": "https://github.com/alfset/top-holder-token/blob/main/src/Physica.jpg"
+            "logoURI": "https://github.com/alfset/top-holder-token/blob/main/src/Logo%20Physica.png"
         }
     ],
     "version": {

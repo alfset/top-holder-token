@@ -1,56 +1,55 @@
 {
-  "name": "PLANQ",
-  "logoURI": "https://evm.planq.network/images/planq-e04d1000086331abf45ccaed9064c328.svg",
-  "keywords": [
-    "compound",
-    "defi"
-  ],
-  "timestamp": "2021-05-27T20:37:00.000+00:00",
-  "tokens": [
-    {
-      "chainId": 700707,
-      "address": "0xd294ff6a5D1c6731125d297Efc65c1a788eFA5B1",
-      "name": "USDT",
-      "symbol": "TUSDTQ",
-      "decimals": 18,
-      "logoURI": "https://seeklogo.com/images/T/tether-usdt-logo-FA55C7F397-seeklogo.com.png"
-    },
-    {
-      "chainId": 700707,
-      "address": "0x0f265b48Bb6c3A7F8aC66A74eC765439cAAd9209",
-      "name": "Wraped PLANQ",
-      "symbol": "WPLANQ",
-      "decimals": 18,
-      "logoURI": "https://evm.planq.network/images/planq-e04d1000086331abf45ccaed9064c328.svg"
-    },
-    {
-      "chainId": 700707,
-      "address": "0xfF1f7428F672EaA625719dd9e13763d3d18d2108",
-      "name": "PLANQ USD Coin",
-      "symbol": "TUSDC",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_usdc.svg"
-    },
-    {
-      "chainId": 700707,
-      "address": "0x9Cac1CD4aAB4dF28D897E991d19bd4b4CDef2691",
-      "name": "Maker Planq",
-      "symbol": "MKR",
-      "decimals": 18,
-      "logoURI": "https://cryptologos.cc/logos/maker-mkr-logo.png"
-    },
-    {
-      "chainId": 700707,
-      "address": "0xB93319056C6CDd37448d696cEB9b020B8519Fa08",
-      "name": "Wrapped BTC",
-      "symbol": "WBTC",
-      "decimals": 18,
-      "logoURI": "https://static.vecteezy.com/system/resources/previews/008/505/801/original/bitcoin-logo-color-illustration-png.png"
+    "name": "PLANQ",
+    "logoURI": "https://evm.planq.network/images/planq-e04d1000086331abf45ccaed9064c328.svg",
+    "keywords": [
+        "compound",
+        "defi"
+    ],
+    "timestamp": "2021-05-27T20:37:00.000+00:00",
+    "tokens": [{
+            "chainId": 7070,
+            "address": "0xfD6fF17b542260f95660BBD71470Fe6eEC72801D",
+            "name": "USDT - Tron",
+            "symbol": "USDT",
+            "decimals": 18,
+            "logoURI": "https://seeklogo.com/images/T/tether-usdt-logo-FA55C7F397-seeklogo.com.png"
+        },
+        {
+            "chainId": 7070,
+            "address": "0x5EBCdf1De1781e8B5D41c016B0574aD53E2F6E1A",
+            "name": "Wraped PLANQ",
+            "symbol": "WPLANQ",
+            "decimals": 18,
+            "logoURI": "https://evm.planq.network/images/planq-e04d1000086331abf45ccaed9064c328.svg"
+        },
+        {
+            "chainId": 7070,
+            "address": "0x75E20C5d4aade76143b8b74d1C5E2865347f9d3B",
+            "name": "PLANQ USD Coin",
+            "symbol": "USDC",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_usdc.svg"
+        },
+        {
+            "chainId": 7070,
+            "address": "0x9Cac1CD4aAB4dF28D897E991d19bd4b4CDef2691",
+            "name": "Delta Token",
+            "symbol": "DELTA",
+            "decimals": 18,
+            "logoURI": "https://cryptologos.cc/logos/maker-mkr-logo.png"
+        },
+        {
+            "chainId": 700707,
+            "address": "0xB93319056C6CDd37448d696cEB9b020B8519Fa08",
+            "name": "Wrapped BTC",
+            "symbol": "WBTC",
+            "decimals": 18,
+            "logoURI": "https://static.vecteezy.com/system/resources/previews/008/505/801/original/bitcoin-logo-color-illustration-png.png"
+        }
+    ],
+    "version": {
+        "major": 2,
+        "minor": 0,
+        "patch": 0
     }
-  ],
-  "version": {
-    "major": 2,
-    "minor": 0,
-    "patch": 0
-  }
 }

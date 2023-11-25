@@ -32,19 +32,19 @@
         },
         {
             "chainId": 7070,
-            "address": "0x9Cac1CD4aAB4dF28D897E991d19bd4b4CDef2691",
+            "address": "0x6aF48997671584672e084Bf2296473677598ee58",
             "name": "Delta Token",
             "symbol": "DELTA",
             "decimals": 18,
-            "logoURI": "https://cryptologos.cc/logos/maker-mkr-logo.png"
+            "logoURI": "https://github.com/alfset/top-holder-token/blob/main/src/Delta.jpg"
         },
         {
-            "chainId": 700707,
-            "address": "0xB93319056C6CDd37448d696cEB9b020B8519Fa08",
-            "name": "Wrapped BTC",
-            "symbol": "WBTC",
+            "chainId": 7070,
+            "address": "0xC403e19036dc56B5698B8241D37C86FE87d57003",
+            "name": "Physica Token",
+            "symbol": "PHYSICA",
             "decimals": 18,
-            "logoURI": "https://static.vecteezy.com/system/resources/previews/008/505/801/original/bitcoin-logo-color-illustration-png.png"
+            "logoURI": "https://github.com/alfset/top-holder-token/blob/main/src/Physica.jpg"
         }
     ],
     "version": {
